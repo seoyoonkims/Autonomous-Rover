@@ -4,4 +4,4 @@
 
 ---
 
-https://seoyoonkims.github.io/docs/posts/EE405/
+https://seoyoonkims.github.io/docs/projects/EE405/
